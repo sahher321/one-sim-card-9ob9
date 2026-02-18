@@ -107,11 +107,11 @@ const Footer = () => {
                 Privacy Policy
               </Link>
             </li>
-            {/* <li>
-              <Link to="#" className="hover:text-[#F4C600]">
+            <li>
+              <Link to="/sitemap" className="hover:text-[#F4C600]">
                 Sitemap
               </Link>
-            </li> */}
+            </li>
           </ul>
         </div>
         {/* === Support === */}
