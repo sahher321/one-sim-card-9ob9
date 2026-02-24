@@ -199,7 +199,7 @@ const Footer = () => {
       <div className="bg-white py-3">
         <div className="max-w-7xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-4 px-4 sm:px-6 md:px-8">
           <p className="text-center text-xs text-gray-500">
-            © 2006–2025 Belmont Telecom Inc., DBA OneSimCard.com. All rights
+            © 2006–2026 Belmont Telecom Inc., DBA OneSimCard.com. All rights
             reserved.
           </p>
           <CustomButton
